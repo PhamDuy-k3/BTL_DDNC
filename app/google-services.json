@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "530008453197",
+    "project_id": "appbansach-6c7eb",
+    "storage_bucket": "appbansach-6c7eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:530008453197:android:ee41dbcbc12c380663ac04",
+        "android_client_info": {
+          "package_name": "com.example.appbansach"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQshib3oQ3Pjowxc_qanFCU0yf1zaiIdQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
